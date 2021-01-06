@@ -1,0 +1,25 @@
+.pad-left {
+  margin-left: 10px;
+}
+.well div {
+  color: #bbb;
+}
+.thumbnail {
+  height: 210px;
+}
+.green {
+  color: #003300 !important;
+}
+.bold {
+  font-weight: bolder;
+}
+.italic {
+  font-style: italic;
+}
+
+.fontFam {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.fontouline {
+  font: outline;
+}
